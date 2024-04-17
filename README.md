@@ -8,7 +8,7 @@
 
   1. Os usuários devem fazer cadastro para utilizar o programa. 
 
-  2. usuários pode criar subperfis para cada pet. 
+  2. Os usuários podem criar subperfis para cada pet. 
 
   3. Os usuários devem informar se estão disponíveis para ser adotante, lar temporário, divulgador ou apoiador, podendo marcar mais de uma opção. 
 
