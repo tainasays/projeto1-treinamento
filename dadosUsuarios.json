@@ -1,0 +1,31 @@
+[
+  {
+    "nomeCadastro": "thay",
+    "emailCadastro": "than@ke",
+    "senhaCadastro": "23"
+  },
+  {
+    "nomeCadastro": "thay",
+    "emailCadastro": "email@com.br.pe",
+    "senhaCadastro": "bentinhos"
+  },
+  {
+    "nomeCadastro": "bentinho",
+    "emailCadastro": "bentinho@oi.com",
+    "senhaCadastro": "123"
+  },
+  {
+    "nomeCadastro": "jose silva",
+    "emailCadastro": "jose@oi.com",
+    "senhaCadastro": "1234"
+  },
+  {
+    "nomeCadastro": "bento",
+    "emailCadastro": "zeca@oi.com",
+    "senhaCadastro": "1234"
+  },{
+    "nomeCadastro": "t",
+    "emailCadastro": "t",
+    "senhaCadastro": "t"
+  }
+]
